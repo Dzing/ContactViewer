@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/ContactViewer">
+    
+  <jpa:repositories base-package="ru.balamut.contactviewer.repository" />  
+    
+  <!-- Specify a JDBC datasource -->
+  <!--Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="10" maxIdle="4" name="jdbc/LocalMySQL" password="Balamut2227" type="javax.sql.DataSource" url="jdbc:mysql://127.0.0.1:3306/Aldeb@ran?autoReconnect=true" username="Balamut2227" validationQuery="select 1"/-->
+</Context>
